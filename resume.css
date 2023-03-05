@@ -1,0 +1,29 @@
+*{
+    font-family: Cal;
+}
+
+.line{
+    border: 2px solid;
+    width: 50%;
+    
+}
+.line2{
+    border: 2px thick;
+    width: 50%;
+    color: aliceblue
+}
+.first{
+    text-align: center;
+}
+.Education ul li{
+    list-style-type: none;
+}
+.ExpList1 ul li{
+    list-style-type: disc;
+}
+.ExpList2 ul li{
+    list-style-type: disc;
+}
+.JobTitle1 ul li{
+    list-style-type: none;
+}
